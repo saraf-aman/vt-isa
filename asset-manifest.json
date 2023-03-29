@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/vt-isa/static/css/main.be231368.css",
+    "main.css": "/vt-isa/static/css/main.fd589fdc.css",
     "main.js": "/vt-isa/static/js/main.e8e3eaa9.js",
     "static/js/787.10b355a4.chunk.js": "/vt-isa/static/js/787.10b355a4.chunk.js",
     "static/media/international-cafe-hours.jpg": "/vt-isa/static/media/international-cafe-hours.27650b6a96651dcfaa60.jpg",
@@ -19,12 +19,12 @@
     "static/media/pylons-sunset.jpg": "/vt-isa/static/media/pylons-sunset.91947004e43e104b35ef.jpg",
     "static/media/nav-bar-background.png": "/vt-isa/static/media/nav-bar-background.27718a5ba9f54d6bcb84.png",
     "index.html": "/vt-isa/index.html",
-    "main.be231368.css.map": "/vt-isa/static/css/main.be231368.css.map",
+    "main.fd589fdc.css.map": "/vt-isa/static/css/main.fd589fdc.css.map",
     "main.e8e3eaa9.js.map": "/vt-isa/static/js/main.e8e3eaa9.js.map",
     "787.10b355a4.chunk.js.map": "/vt-isa/static/js/787.10b355a4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.be231368.css",
+    "static/css/main.fd589fdc.css",
     "static/js/main.e8e3eaa9.js"
   ]
 }
