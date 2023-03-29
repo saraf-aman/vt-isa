@@ -1,23 +1,30 @@
 {
   "files": {
-    "main.css": "/vt-isa/static/css/main.908d4baf.css",
-    "main.js": "/vt-isa/static/js/main.5723929e.js",
+    "main.css": "/vt-isa/static/css/main.b9674e9b.css",
+    "main.js": "/vt-isa/static/js/main.844b0c74.js",
     "static/js/787.10b355a4.chunk.js": "/vt-isa/static/js/787.10b355a4.chunk.js",
     "static/media/international-cafe-hours.jpg": "/vt-isa/static/media/international-cafe-hours.27650b6a96651dcfaa60.jpg",
     "static/media/dandiya.jpeg": "/vt-isa/static/media/dandiya.f106cc1132373ce7de4a.jpeg",
     "static/media/diwali.jpeg": "/vt-isa/static/media/diwali.c03e81dff85fdf0df371.jpeg",
+    "static/media/holi-2.jpg": "/vt-isa/static/media/holi-2.65aaebbbd3c532d66e3a.jpg",
     "static/media/holi-3.jpg": "/vt-isa/static/media/holi-3.865f31bbcc08f3a40955.jpg",
+    "static/media/holi-1.jpg": "/vt-isa/static/media/holi-1.6e77e2c218252a8d19e7.jpg",
+    "static/media/indo-pak.jpg": "/vt-isa/static/media/indo-pak.bed64a2a6898fad68339.jpg",
     "static/media/welcome-social.JPG": "/vt-isa/static/media/welcome-social.352d0926052979d176a3.JPG",
+    "static/media/committee-pic.JPG": "/vt-isa/static/media/committee-pic.772ff651ba9b8e957a61.JPG",
+    "static/media/core-committee-pic.JPG": "/vt-isa/static/media/core-committee-pic.892f72c1e678a9807fab.JPG",
+    "static/media/indo-pak-2.jpeg": "/vt-isa/static/media/indo-pak-2.2ea1bef4429104a7477a.jpeg",
+    "static/media/committee-social.png": "/vt-isa/static/media/committee-social.88a92d9c9c1fe1a10739.png",
     "static/media/footer-background.png": "/vt-isa/static/media/footer-background.4c3330c63169ac986eb5.png",
     "static/media/pylons-sunset.jpg": "/vt-isa/static/media/pylons-sunset.91947004e43e104b35ef.jpg",
     "static/media/nav-bar-background.png": "/vt-isa/static/media/nav-bar-background.27718a5ba9f54d6bcb84.png",
     "index.html": "/vt-isa/index.html",
-    "main.908d4baf.css.map": "/vt-isa/static/css/main.908d4baf.css.map",
-    "main.5723929e.js.map": "/vt-isa/static/js/main.5723929e.js.map",
+    "main.b9674e9b.css.map": "/vt-isa/static/css/main.b9674e9b.css.map",
+    "main.844b0c74.js.map": "/vt-isa/static/js/main.844b0c74.js.map",
     "787.10b355a4.chunk.js.map": "/vt-isa/static/js/787.10b355a4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.908d4baf.css",
-    "static/js/main.5723929e.js"
+    "static/css/main.b9674e9b.css",
+    "static/js/main.844b0c74.js"
   ]
 }
