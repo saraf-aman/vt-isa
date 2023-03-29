@@ -1,0 +1,33 @@
+.navigation {
+    height: 70px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    background-size: 100% 100%;
+    font-family: 'Bigelow Rules', cursive;
+    font-family: 'Sono', sans-serif;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+  
+    .logo-container {
+      height: 100%;
+      padding: 10px;
+      padding-left: 20px;
+    }
+  
+    .nav-links-container {
+      width: 50%;
+      height: 100%;
+      display: flex;
+      align-items: center;
+      justify-content: flex-end;
+  
+      .nav-link {
+        padding: 10px 15px;
+        cursor: pointer;
+        color: #06038D;
+        text-decoration: none;
+      }
+    }
+  }

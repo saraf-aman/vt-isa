@@ -1,0 +1,23 @@
+.boxing {
+    padding: 10px 10px 10px 0px;
+    border-style: solid;
+    border-width: 1px;
+    background: rgba(0,0,0,0.4);
+    position: sticky;
+    top: 80px;
+    background-clip: padding-box;
+
+
+    .event-links {
+        display: block;
+        padding: 10px 15px;
+        cursor: pointer;
+        align-items: center;
+        color: blanchedalmond;
+      }
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}

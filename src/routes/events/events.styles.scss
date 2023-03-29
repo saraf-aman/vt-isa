@@ -1,0 +1,14 @@
+.event-container {
+    height: 100%;
+    width: 100%;
+    display: flex;
+
+    .event-name-container {
+        flex-basis: 20%;
+    }
+
+    .event-detail-container {
+        flex-basis: 80%;
+        padding-left: 50px;
+    }
+}

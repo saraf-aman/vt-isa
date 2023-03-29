@@ -1,13 +1,37 @@
-import React from 'react';
-import ReactDOM from 'react-dom/client';
-import './index.css';
-import App from './App';
-import reportWebVitals from './reportWebVitals';
+import React from "react";
+import ReactDOM from "react-dom/client";
+import { HashRouter } from "react-router-dom";
+import ScrollToTop from "./helper/scroll-to-top";
 
-const root = ReactDOM.createRoot(document.getElementById('root'));
+import "./index.scss";
+import App from "./App";
+import reportWebVitals from "./reportWebVitals";
+
+import backgroundimg from "./assets/pylons-sunset.jpg";
+
+const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <React.StrictMode>
-    <App />
+    <HashRouter>
+      <ScrollToTop />
+      <div
+        style={{
+          backgroundImage: `url(${backgroundimg})`,
+          backgroundSize: "100% 100%",
+          backgroundAttachment: "fixed",
+          minHeight: "100vh",
+        }}
+      >
+        <div
+          style={{
+            backgroundColor: "rgba(0,0,0,0.85)",
+            minHeight: "100vh",
+          }}
+        >
+          <App />
+        </div>
+      </div>
+    </HashRouter>
   </React.StrictMode>
 );
 
