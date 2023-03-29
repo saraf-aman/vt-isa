@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/vt-isa/static/css/main.d6075557.css",
-    "main.js": "/vt-isa/static/js/main.70116657.js",
+    "main.css": "/vt-isa/static/css/main.ac7ab67b.css",
+    "main.js": "/vt-isa/static/js/main.3b899ee2.js",
     "static/js/787.10b355a4.chunk.js": "/vt-isa/static/js/787.10b355a4.chunk.js",
     "static/media/international-cafe-hours.jpg": "/vt-isa/static/media/international-cafe-hours.27650b6a96651dcfaa60.jpg",
     "static/media/dandiya.jpeg": "/vt-isa/static/media/dandiya.f106cc1132373ce7de4a.jpeg",
@@ -19,12 +19,12 @@
     "static/media/pylons-sunset.jpg": "/vt-isa/static/media/pylons-sunset.91947004e43e104b35ef.jpg",
     "static/media/nav-bar-background.png": "/vt-isa/static/media/nav-bar-background.27718a5ba9f54d6bcb84.png",
     "index.html": "/vt-isa/index.html",
-    "main.d6075557.css.map": "/vt-isa/static/css/main.d6075557.css.map",
-    "main.70116657.js.map": "/vt-isa/static/js/main.70116657.js.map",
+    "main.ac7ab67b.css.map": "/vt-isa/static/css/main.ac7ab67b.css.map",
+    "main.3b899ee2.js.map": "/vt-isa/static/js/main.3b899ee2.js.map",
     "787.10b355a4.chunk.js.map": "/vt-isa/static/js/787.10b355a4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d6075557.css",
-    "static/js/main.70116657.js"
+    "static/css/main.ac7ab67b.css",
+    "static/js/main.3b899ee2.js"
   ]
 }
