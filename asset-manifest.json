@@ -1,18 +1,23 @@
 {
   "files": {
     "main.css": "/vt-isa/static/css/main.908d4baf.css",
-    "main.js": "/vt-isa/static/js/main.c5ad8208.js",
+    "main.js": "/vt-isa/static/js/main.c17c16c1.js",
     "static/js/787.10b355a4.chunk.js": "/vt-isa/static/js/787.10b355a4.chunk.js",
+    "static/media/international-cafe-hours.jpg": "/vt-isa/static/media/international-cafe-hours.27650b6a96651dcfaa60.jpg",
+    "static/media/dandiya.jpeg": "/vt-isa/static/media/dandiya.f106cc1132373ce7de4a.jpeg",
+    "static/media/diwali.jpeg": "/vt-isa/static/media/diwali.c03e81dff85fdf0df371.jpeg",
+    "static/media/holi-3.jpg": "/vt-isa/static/media/holi-3.865f31bbcc08f3a40955.jpg",
+    "static/media/welcome-social.JPG": "/vt-isa/static/media/welcome-social.352d0926052979d176a3.JPG",
     "static/media/footer-background.png": "/vt-isa/static/media/footer-background.4c3330c63169ac986eb5.png",
     "static/media/pylons-sunset.jpg": "/vt-isa/static/media/pylons-sunset.91947004e43e104b35ef.jpg",
     "static/media/nav-bar-background.png": "/vt-isa/static/media/nav-bar-background.27718a5ba9f54d6bcb84.png",
     "index.html": "/vt-isa/index.html",
     "main.908d4baf.css.map": "/vt-isa/static/css/main.908d4baf.css.map",
-    "main.c5ad8208.js.map": "/vt-isa/static/js/main.c5ad8208.js.map",
+    "main.c17c16c1.js.map": "/vt-isa/static/js/main.c17c16c1.js.map",
     "787.10b355a4.chunk.js.map": "/vt-isa/static/js/787.10b355a4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.908d4baf.css",
-    "static/js/main.c5ad8208.js"
+    "static/js/main.c17c16c1.js"
   ]
 }
