@@ -11,8 +11,7 @@ import img6 from "../../assets/carousle/core-committee-pic.JPG";
 import img7 from "../../assets/carousle/dandiya.jpeg";
 import img8 from "../../assets/carousle/committee-social.png";
 import img9 from "../../assets/carousle/indo-pak-2.jpeg";
-import img10 from "../../assets/carousle/welcome-social.JPG";
-import img11 from "../../assets/carousle/indo-pak.jpg";
+import img10 from "../../assets/carousle/indo-pak.jpg";
 
 const CarouselPage = () => {
   return (
@@ -52,9 +51,6 @@ const CarouselPage = () => {
       </div>
       <div>
         <img src={img10} alt="img10" />
-      </div>
-      <div>
-        <img src={img11} alt="img11" />
       </div>
     </Carousel>
   );
