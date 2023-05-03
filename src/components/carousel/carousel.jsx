@@ -5,7 +5,7 @@ import "./carousel.styles.scss";
 
 import img1 from "../../assets/carousle/holi-1.jpg";
 import img2 from "../../assets/carousle/committee-pic.JPG";
-// import img3 from "../../assets/carousle/committee-pic.JPG"
+import img3 from "../../assets/carousle/international-street-fair.JPG";
 import img4 from "../../assets/carousle/holi-2.jpg";
 import img5 from "../../assets/carousle/international-cafe-hours.jpg";
 import img6 from "../../assets/carousle/core-committee-pic.JPG";
@@ -30,9 +30,9 @@ const CarouselPage = () => {
       <div>
         <img src={img2} alt="img2" />
       </div>
-      {/*<div>
+      <div>
         <img src={img3} alt="img3" />
-  </div>*/}
+      </div>
       <div>
         <img src={img4} alt="img4" />
       </div>
