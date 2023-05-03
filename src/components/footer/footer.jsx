@@ -4,6 +4,11 @@ import { Outlet } from "react-router-dom";
 import "./footer.styles.scss";
 import footback from "../../assets/footer-background.png";
 
+import lnkdinimg from "../../assets/icons/linkedin.png";
+import instaimg from "../../assets/icons/instagram.jpg";
+import fbimg from "../../assets/icons/facebook.png";
+import gcimg from "../../assets/icons/gobbler-connect.jpg";
+
 const Footer = () => {
   return (
     <Fragment>
@@ -21,6 +26,7 @@ const Footer = () => {
             rel="noopener noreferrer"
             target="_blank"
           >
+            {/*<img src={lnkdinimg} alt="lnkdinimg" />*/}
             LinkedIn
           </a>
           <a
