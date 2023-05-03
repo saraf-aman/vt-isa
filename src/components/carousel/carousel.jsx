@@ -3,10 +3,10 @@ import { Carousel } from "react-responsive-carousel";
 import "react-responsive-carousel/lib/styles/carousel.min.css";
 import "./carousel.styles.scss";
 
-import img1 from "../../assets/carousle/holi-1.jpg";
+import img1 from "../../assets/carousle/holi-2.jpg";
 import img2 from "../../assets/carousle/committee-pic.JPG";
 import img3 from "../../assets/carousle/international-street-fair.JPG";
-import img4 from "../../assets/carousle/holi-2.jpg";
+import img4 from "../../assets/carousle/holi-1.jpg";
 import img5 from "../../assets/carousle/international-cafe-hours.jpg";
 import img6 from "../../assets/carousle/core-committee-pic.JPG";
 import img7 from "../../assets/carousle/dandiya.jpeg";

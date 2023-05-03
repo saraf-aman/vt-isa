@@ -4,7 +4,8 @@ import { HashLink as HLink } from "react-router-hash-link";
 
 import "./navigation.styles.scss";
 
-import navbarback from "../../assets/nav-bar-background.png";
+// import navbarback from "../../assets/nav-bar-background.png";
+import navbarback from "../../assets/nav-bar-bg-2.jpg";
 import isalogo from "../../assets/isa-logo.png";
 
 const Navigation = () => {
