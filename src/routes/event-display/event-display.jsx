@@ -4,10 +4,10 @@ const EventDisplay = ({ elist }) => {
   const { imageUrl, text } = elist;
   return (
     <section>
-      <div className="img-container">
-        <img src={imageUrl} alt="img" />
+      <div style={{ paddingRight: "5px" }}>
+        <img style={{ maxWidth: "100%" }} src={imageUrl} alt="img" />
       </div>
-      <p style={{ paddingRight: "50px" }}>{text}</p>
+      <p style={{ paddingRight: "5px" }}>{text}</p>
     </section>
   );
 };
