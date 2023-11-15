@@ -117,7 +117,7 @@ const NewStudents = () => {
           <span>
             <a
               className="ext-link"
-              href="https://chat.whatsapp.com/EuZm8sRbfKOKAk11tcR03g"
+              href="https://chat.whatsapp.com/CA85DsFwn81LC9cfruyR3x"
               rel="noopener noreferrer"
               target="_blank"
             >
